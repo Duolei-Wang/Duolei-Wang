@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ## Who Am I
 
-My name is WANG Duolei. I'm now a bachelor student at SUSTech (Southern University of Science and Technology). And I have got a conditional offer of CUHK(SZ), will be enrolled at 2024 Summer.
+My name is WANG Duolei. I'm now a bachelor student at SUSTech (Southern University of Science and Technology). And I have got a conditional offer from CUHK(SZ). I will be enrolled at 2024 Summer.
 
-I have general interest in the corresponding fields of Programming Language, Proof, Type Theory. I'm skilled with Python, C/C++ programming, and also familiar with Julia. And I'm now practicing the Haskell, Common Scheme.
+I have general interest in the corresponding fields of Programming Language Theory, Lambda Calculi and Type Theory. I'm skilled with Python, C/C++ programming, and also familiar with Julia. And I'm now practicing the Haskell, Scheme.
 
 Any interest please contact me with email, wangdl2020@mail.sustech.edu.cn.
 
