@@ -5,7 +5,7 @@ Hi, I'm D. Wang, a chinese student got a BS degree of Math at SUSTech.
 
 - 🤔 I’m looking for some PhD program PLT related.
 
-  Emmm, I realize I'll be in regret in the future if I not try to learn something intereste me.
+  Emmm, I realize I'll be in regret in the future if I not try to learn something interest me.
 
 - 🔭 I’m currently working as a RA at CUHKSZ.
 
