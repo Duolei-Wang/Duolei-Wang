@@ -2,12 +2,20 @@
 
 Hi, I'm D. Wang, a chinese student got a BS degree of Math at SUSTech.
 
+I’m looking for some PhD program PLT related.
 
-- 🤔 I’m looking for some PhD program PLT related.
+- 📫 How to reach me: 
 
-  Emmm, I realize I'll be in regret in the future if I not try to learn something interest me.
+  - Public: duolei.wang@gmail.com
 
-- 🔭 I’m currently working as a RA at CUHKSZ.
+  - Self: wangdl2020@mail.sustech.edu.cn
+
+- ⚡ Fun fact:
+
+  - My graduate number at SUSTech is No.64, I think it's a good number XD.
+  - I was a vocal in a campus Chinese Rock Band.
+  - My lucky number is 7 or 47.
+  - I like chocolate flavour Vitamilk very much.
 
 - 🌱 I’m currently learning PLT related.
 
@@ -37,16 +45,4 @@ Hi, I'm D. Wang, a chinese student got a BS degree of Math at SUSTech.
 
   
 
-- 📫 How to reach me: 
-
-  - Public: duolei.wang@gmail.com
-
-  - Self: wangdl2020@mail.sustech.edu.cn
-
-- ⚡ Fun fact:
-
-  - My graduate number at SUSTech is No.64, I think it's a good number XD.
-  - I was a vocal in a campus Chinese Rock Band.
-  - My lucky number is 7 or 47.
-  - I like chocolate flavour Vitamilk very much.
 
