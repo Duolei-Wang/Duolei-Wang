@@ -1,6 +1,6 @@
 ### Hi there ^_^ 👋
 
-Hi, I'm D. Wang, a Chinese student who received a B.Sc degree from Dept.Math, Southern University of Science and Technology (SUSTech).
+Hi, I'm Duolei Wang, a Chinese student who received a B.Sc degree from the Dept. Math of Southern University of Science and Technology (SUSTech).
 
 I'm looking for PhD programs in PLT related.
 
